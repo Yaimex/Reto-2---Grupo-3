@@ -1,0 +1,9 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos y directorios temporales
+*.log
+*.tmp
+*.bak
